@@ -1,0 +1,18 @@
+<!-- Badges -->
+[!badge text="GEPLANT" variant="info"]
+[!badge text="AKTUELL" variant="info"]
+
+<!-- Neu Version -->
+## v<VERSION>
+
+Veröffentlicht: <Datum>
+
++++ :icon-diff-added: Neu
+
++++ :icon-unverified: Geplant:
+
++++ :icon-diff-ignored: Unverändert
+
++++ :icon-diff-modified: Bearbeitet
+
++++ :icon-diff-removed: Entfernt

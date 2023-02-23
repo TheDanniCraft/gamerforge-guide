@@ -1,11 +1,21 @@
 input: .
 output: .retype
-url: docs.gamerforge-discord.de
+url: guide.gamerforge-discord.de
+exclude:
+  - "templates"
+edit:
+  repo: "https://github.com/TheDanniCraft/gamerforge-docs/"
 branding:
   title: 🎮 | GamerForge
   label: Guide
 links:
   - text: Beitreten
-    link: https://discord.gg/deutsch
+    link: htttps://link.thedannicraft.de/discord
+  - text: Chat
+    link: /chat
+integrations:
+  plausible:
+    domain: docs.gamerforge-discord.de
+    host: https://analytics.thedannicraft.de/js/script.js
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
