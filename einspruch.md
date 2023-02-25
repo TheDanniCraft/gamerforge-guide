@@ -20,6 +20,6 @@ Wenn dein Einspruch abgelehnt wird kannst du gerne erneut einen Einspruch einleg
 !!!danger Wenn du zu oft für den gleichen Fall einen Einspruch einlegst oder das das System ausnutzt(Spam, Beleidigung etc.) kannst du auf die Blacklist kommen. Dann kannst du keine Einsprüche mehr einlegen, weder für den aktuellen Fall, noch für zukünftige.
 !!!
 
-Im Falle eines Banns wirst du **NICHT** wieder automatisch zum Server hinzugefügt. Sollte dein Einspruch angenommen werden wirst du entgebannt und kannst über den unten stehenden Knopf beitreten.
+Im Falle eines Banns wirst du **NICHT** wieder automatisch zum Server hinzugefügt. Sollte dein Einspruch angenommen werden wirst du entbannt und kannst über den unten stehenden Knopf beitreten.
 
 [!button variant="normal" icon="desktop-download" iconAlign="left" text="Discord beitreten" target="blank"](https://link.thedannicraft.de/discord)
