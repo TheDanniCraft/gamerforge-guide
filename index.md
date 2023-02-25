@@ -4,7 +4,7 @@ order: 10000
 icon: home
 ---
 
-# Willkommen
+# Willkommena
 
 Hier folgen in kürze die aktuellen Docs
 
