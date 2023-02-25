@@ -57,5 +57,5 @@ Diese Sektion wird gerade erst von unserem Team erstellt
 ===
 
 !!!warning
-Du kannst in deinen Beiträgen spezielle Komponennten verwenden. Eine Liste mit allen findest du [hier](https://retype.com/components/#components)
+Du kannst in deinen Beiträgen spezielle Komponenten verwenden. Eine Liste mit allen findest du [hier](https://retype.com/components/#components)
 !!!
