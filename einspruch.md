@@ -9,7 +9,7 @@ icon: log
 Du wurdest von GamerForge gebannt? Oder hast eine Strafe erhallten die du angemessen findest?
 Klicke auf den Knopf um einen Einspruch gegen eine Strafe einzulegen.
 
-!!!warning Nicht alle für alle Strafen kann ein Einspruch eingelegt werden. Timeouts unter `5 Minuten` können nicht angefochten werden.
+!!!warning Nicht für alle Strafen kann ein Einspruch eingelegt werden. Timeouts unter `5 Minuten` können nicht angefochten werden.
 !!!
 
 [!button variant="danger" icon="report" iconAlign="left" text="Einspruch einlegen" target="blank"](https://appeals.wickbot.com/)
