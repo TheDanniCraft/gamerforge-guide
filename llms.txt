@@ -1,0 +1,18 @@
+﻿# Willkommen
+
+> Dieser Guide erklärt dir alles was du über den deutschsprachigen Community Discord GamerForge wissen & kennen musst. Er beinhaltet außerdem einen Guide über alles was man als neues Teammitglied wissen muss.
+
+- [Willkommen](https://guide.gamerforge-discord.de/index.md): Willkommen
+- [Chat](https://guide.gamerforge-discord.de/chat.md): Hier kannst du mit dem Server interagieren ohne auf dem Server zu sein oder deinen Discord Client geöffnet zu haben.
+- [Einspruch](https://guide.gamerforge-discord.de/einspruch.md): Du wurdest von GamerForge gebannt? Oder hast eine Strafe erhallten die du angemessen findest? Klicke auf den Knopf um einen Einspruch gegen eine Strafe einzulegen.
+- [Roadmap](https://guide.gamerforge-discord.de/roadmap.md): Seite: Beitragen
+- [Beitragen](https://guide.gamerforge-discord.de/beitragen.md): Diese Seite wird gerade erst von unserem Team erstellt
+
+## Spiele Reviews
+
+- [Info](https://guide.gamerforge-discord.de/spiele-reviews/info.md): Diese Seite wird gerade erst von unserem Team erstellt
+
+## Blog
+
+- [Blog](https://guide.gamerforge-discord.de/blog/)
+- [Info](https://guide.gamerforge-discord.de/blog/info.md): Diese Seite wird gerade erst von unserem Team erstellt
